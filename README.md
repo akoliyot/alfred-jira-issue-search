@@ -1,2 +1,4 @@
 # Jira Issue Search
-A workflow for Alfred to search for issues on Jira.
+An Alfred workflow to search for issues on Jira.
+![image](./assets/search_screen.png)
+
